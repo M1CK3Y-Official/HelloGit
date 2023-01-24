@@ -1,0 +1,23 @@
+{
+  "name": "hellogit",
+  "version": "1.0.0",
+  "description": "* Liste\r     * Liste\r ### Afsnit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M1CK3Y-Official/HelloGit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M1CK3Y-Official/HelloGit/issues"
+  },
+  "homepage": "https://github.com/M1CK3Y-Official/HelloGit#readme",
+  "devDependencies": {
+    "eslint": "^8.32.0"
+  }
+}
