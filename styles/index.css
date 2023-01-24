@@ -13,11 +13,22 @@ font-size: 1.6rem;
 }
 
 
-nav {
+header {
  background-color: gray;
  height: auto;
  width: 100%;
  padding: 2em;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+
+.text {
+    font-family: sans-serif;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 800;
 }
 
 nav ul {
@@ -25,7 +36,6 @@ nav ul {
     display: flex;
     justify-content: flex-end;
     gap: 1em;
-    margin-right: 2em;
 }
 
 nav ul li a {
